@@ -27,7 +27,8 @@ using Nop.Web.Framework.Security.Captcha;
 using Nop.Web.Infrastructure.Cache;
 using Nop.Web.Models.Blogs;
 
-//test thôi mà
+//test thôi mà ec ec
+//hú hú
 namespace Nop.Web.Controllers
 {
     [NopHttpsRequirement(SslRequirement.No)]
