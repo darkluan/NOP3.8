@@ -57,6 +57,7 @@ namespace Nop.Web.Controllers
 
         #region Constructors
 
+
         public BlogController(IBlogService blogService,
             IWorkContext workContext,
             IStoreContext storeContext,
